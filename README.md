@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=WOb1QoqDoiI
 
 ## Componentes
 
-. Esp32-Cam
-. Sensor de Movimientos PIR
-. Cables
-. Fuente 5v
+- Esp32-Cam
+- Sensor de Movimientos PIR
+- Cables
+- Fuente 5v
