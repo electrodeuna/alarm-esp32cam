@@ -1,4 +1,6 @@
-# alarm-esp32cam
+# Alarma con Esp32 CAM y Telegram
+
+Proyecto con el Esp32 CAM y un sensor de movimiento que envia una imagen por Telegram cada vez que se detecte movimiento.
 
 Video Tutorial
 
