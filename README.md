@@ -14,3 +14,12 @@ https://www.youtube.com/watch?v=WOb1QoqDoiI
 - Sensor de Movimientos PIR
 - Cables
 - Fuente 5v
+
+## Agregar tarjeta Esp32
+
+Para agregar la url de la tarjeta del Esp32 debemos ir al Arduino IDE y seleccionar Archivo -> Preferencias
+Luego en "Gestor de URLs Adicionales de Tarjeta" agregamos:
+
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+
+Si ya tenemos una url agregada previamente, ponemos la nueva con una coma ","
