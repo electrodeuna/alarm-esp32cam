@@ -28,3 +28,11 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 ![image](https://user-images.githubusercontent.com/85527788/198605632-ed09f245-3cc8-48da-a1cb-00f2c3a3d3b5.png)
 
 Si ya tenemos una url agregada previamente, ponemos la nueva url con una coma ","
+
+## Agregar librerías
+
+Las librerías utilizadas para este proyecto son "ArduinoJson" y "UniversalTelegramBot", se instalan desde el gestor de librería del Arduino IDE. También se pueden descargar directamente e instalarlas en Arduino IDE desde Programa (o Sketch) -> Incluir Librería -> Añadir biblioteca .ZIP
+
+UniversalTelegramBot: https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot
+
+![image](https://user-images.githubusercontent.com/85527788/198614626-a11b4904-d129-4d98-a33d-fcf4c0be3fed.png)
