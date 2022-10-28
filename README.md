@@ -18,8 +18,13 @@ https://www.youtube.com/watch?v=WOb1QoqDoiI
 ## Agregar tarjeta Esp32
 
 Para agregar la url de la tarjeta del Esp32 debemos ir al Arduino IDE y seleccionar Archivo -> Preferencias
+
+![image](https://user-images.githubusercontent.com/85527788/198603503-9bda20db-db92-4efb-98f4-a3a74ac37f02.png)
+
 Luego en "Gestor de URLs Adicionales de Tarjeta" agregamos:
 
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 
-Si ya tenemos una url agregada previamente, ponemos la nueva con una coma ","
+![image](https://user-images.githubusercontent.com/85527788/198605632-ed09f245-3cc8-48da-a1cb-00f2c3a3d3b5.png)
+
+Si ya tenemos una url agregada previamente, ponemos la nueva url con una coma ","
